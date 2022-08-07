@@ -13,7 +13,7 @@
 title: "Ahmad Naseem"
 
 # Your name to show in the footer
-author: Ahmad Naseem
+author: "Ahmad Naseem"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -55,7 +55,7 @@ social-network-links:
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: ahmdnsm
+  linkedin: ahmdnsm
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -114,7 +114,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-# keywords: "Ahmad,Naseem,Ahmad Naseem,Software,Engineer,Software Engineer"
+keywords: "Ahmad,Naseem,Ahmad Naseem,Software,Engineer,Software Engineer"
 
 ######################################
 # --- Colours / background image --- #
