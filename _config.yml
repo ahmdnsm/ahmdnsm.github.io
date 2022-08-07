@@ -114,7 +114,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Ahmad,Naseem,Ahmad Naseem,Software,Engineer,Software Engineer"
+# keywords: "Ahmad,Naseem,Ahmad Naseem,Software,Engineer,Software Engineer"
 
 ######################################
 # --- Colours / background image --- #
